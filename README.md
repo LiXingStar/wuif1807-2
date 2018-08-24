@@ -1,2 +1,2 @@
 # wuif1807-2
-this is github repository
+这是一个github仓库
