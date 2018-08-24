@@ -6,5 +6,5 @@
 * 状态  git status 
 * 描述  git commit -m ''
 * 同步  git push
-
+* 本地仓库和网站同步  git pull
 
